@@ -53,7 +53,6 @@ The changes are ours; the garments are theirs. Thank you to every author.
 | `harem_pants.glb` | patterned trousers (from "harem pants") | MargaretToigo | CC0 | http://www.makehumancommunity.org/node/1728 |
 | `skirt.glb` | tiered skirt (from "tiered skirt") | MargaretToigo | CC0 | http://www.makehumancommunity.org/node/1641 |
 | `plaid_skirt.glb` | plaid skirt (from "mini skirt 02") | frankyaye | CC0 | http://www.makehumancommunity.org/node/131 |
-| `long_skirt.glb` | long skirt (from "long full skirt") | MargaretToigo | CC0 | http://www.makehumancommunity.org/node/1727 |
 | `socks.glb` | socks (from "crude high socks") | Joel Palmius | CC0 | http://www.makehumancommunity.org/node/25 |
 | `boots.glb` | boots (from "hero boots 1") | culturalibre | CC0 | http://www.makehumancommunity.org/node/2081 |
 | `shoes.glb` | leather shoes (from "ankle boots male") | MargaretToigo | CC0 | http://www.makehumancommunity.org/node/1743 |
@@ -93,7 +92,6 @@ The changes are ours; the garments are theirs. Thank you to every author.
 | `kilt.glb` | kilt (from "Elvs Male Kilt 1") | Elvaerwyn | CC BY | http://www.makehumancommunity.org/node/1797 |
 | `kilt_hose.glb` | kilt hose (from "Kilt Hose") | namuhekam | CC0 | http://www.makehumancommunity.org/node/3184 |
 | `poncho.glb` | poncho (from "Big Desert Poncho") | brkurt | CC BY | http://www.makehumancommunity.org/node/64 |
-| `viking_dress.glb` | Viking dress (from "Viking dress") | Aethelraed_Unraed | CC0 | http://www.makehumancommunity.org/node/143 |
 | `germanic.glb` | Germanic outfit (from "Germanic/Viking clothes") | Aethelraed_Unraed | CC0 | http://www.makehumancommunity.org/node/144 |
 | `mail_coif.glb` | chainmail hood (from "Traje cota de malla cabeza -  Headmail chain suit") | javherre | CC0 | http://www.makehumancommunity.org/node/2016 |
 | `nefertiti_crown.glb` | Nefertiti's crown (from "Nefertiti Crown") | grinsegold | CC BY | http://www.makehumancommunity.org/node/868 |
